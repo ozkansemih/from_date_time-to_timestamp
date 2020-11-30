@@ -1,3 +1,8 @@
+/*
+semih özkan
+semihozkan555@gmail.com
+*/
+
 uint32_t get_epoch(int sec, int min, int hour, int day_of_month, int month, int year){
 	uint32_t epoch=0;
 	
