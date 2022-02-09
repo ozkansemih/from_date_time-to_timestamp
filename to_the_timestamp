@@ -1,6 +1,7 @@
 /*
 semih özkan
 semihozkan555@gmail.com
+semihozkan_96@hotmail.com
 */
 
 uint32_t get_epoch(int sec, int min, int hour, int day_of_month, int month, int year){
